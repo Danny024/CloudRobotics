@@ -31,7 +31,7 @@ Before you begin, make sure you have the following software installed on your ma
 - Turtlebot3 gazebo
 - robot_state_publisher
 
-The course provides complete details on the environment setup process.
+![Demonstration](images/demo.gif) 
 
 ### Installing Dependencies
 
