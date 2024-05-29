@@ -40,10 +40,10 @@ To install the required dependencies, navigate to the project directory and run 
 ```bash
 npm install
 ```
-
+### Rqt_Graph showing ROSNODES and Topics
 <!-- HTML way to specify dimensions -->
 <p align="center">
-  <img src="images/demo.gif" alt="Demonstration" width="1080" height="600"/>
+  <img src="images/rqt.png" alt="Demonstration" width="1080" height="600"/>
 </p>
 
 
