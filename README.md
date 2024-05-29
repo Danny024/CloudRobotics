@@ -31,10 +31,7 @@ Before you begin, make sure you have the following software installed on your ma
 - Turtlebot3 gazebo
 - robot_state_publisher
 
-<!-- HTML way to specify dimensions -->
-<p align="center">
-  <img src="images/demo.gif" alt="Demonstration" width="1080" height="500"/>
-</p>
+
 
 ### Installing Dependencies
 
@@ -42,6 +39,13 @@ To install the required dependencies, navigate to the project directory and run 
 
 ```bash
 npm install
+
+
+
+<!-- HTML way to specify dimensions -->
+<p align="center">
+  <img src="images/demo.gif" alt="Demonstration" width="1080" height="500"/>
+</p>
 ```
 ### Reference
 
