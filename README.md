@@ -13,9 +13,9 @@ The web interface is composed of the following components:
 - **RobotState.jsx**: Displays live information about the robot's position, orientation, and linear/angular velocity.
 - **Teleoperation.jsx**: Provides teleoperation controls, including a web-based joystick and an emergency stop button.
 
-## Getting Started
+## Youtube Video Demo Link
 
-These instructions will help you set up the project on your local machine for development and testing purposes.
+
 
 ### Prerequisites
 
@@ -41,10 +41,7 @@ To install the required dependencies, navigate to the project directory and run 
 npm install
 ```
 ### Rqt_Graph showing ROSNODES and Topics
-<!-- HTML way to specify dimensions -->
-<p align="center">
-  <img src="images/rqt.png" alt="Demonstration" width="600" height="480"/>
-</p>
+![Rqt_grap](images/rqt.png) 
 
 
 ### Reference
