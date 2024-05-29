@@ -16,7 +16,7 @@ The web interface is composed of the following components:
 ## Youtube Video Demo Link
 [![Cloud Robotics](https://img.youtube.com/vi/37w-SlmuGw4/0.jpg)](https://www.youtube.com/watch?v=37w-SlmuGw4)
 
-
+[Video Link]((https://www.youtube.com/watch?v=37w-SlmuGw4)
 
 
 ### Prerequisites
