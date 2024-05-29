@@ -24,7 +24,7 @@ Before you begin, make sure you have the following software installed on your ma
 - Node.js (v14.x or later) Node.js v20.x was used
 - npm (v7.x or later)
 - ROS (Robot Operating System) ROS Noetic
-- ROSBridge Package
+- ROSBridge Package 
 
 The course provides complete details on the environment setup process.
 
@@ -35,4 +35,6 @@ To install the required dependencies, navigate to the project directory and run 
 ```bash
 npm install
 ```
+### Reference
 
+[ROS Web Navigation](https://www.udemy.com/course/ros-web-nav/).
