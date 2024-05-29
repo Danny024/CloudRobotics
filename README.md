@@ -14,6 +14,8 @@ The web interface is composed of the following components:
 - **Teleoperation.jsx**: Provides teleoperation controls, including a web-based joystick and an emergency stop button.
 
 ## Youtube Video Demo Link
+[![Cloud Robotics](https://img.youtube.com/vi/37w-SlmuGw4/0.jpg)](https://www.youtube.com/watch?v=37w-SlmuGw4)
+
 
 
 
