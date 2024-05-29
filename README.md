@@ -24,13 +24,18 @@ Before you begin, make sure you have the following software installed on your ma
 - Node.js (v14.x or later) Node.js v20.x was used
 - npm (v7.x or later)
 - ROS (Robot Operating System) ROS Noetic
-- ROSBridge Package 
+
+  ### ROS Packages used
+- ROSBridge Package
+- Turtlebot3 navigation
+- Turtlebot3 gazebo
+- robot_state_publisher
 
 The course provides complete details on the environment setup process.
 
 ### Installing Dependencies
 
-To install the required dependencies, navigate to the project directory and run the following command:
+To install the required dependencies, navigate to the project directory and run the following command, this would install the dependencies in the ```package.json``` file:
 
 ```bash
 npm install
