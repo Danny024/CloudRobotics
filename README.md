@@ -1,5 +1,5 @@
 # Cloud Robotics - A web based Interface for Robotics Control and Navigation
-A web application built using React JS to control Robot.
+A web application built using React JS to control the Turtlebot3 Robot.
 
 The web interface is composed of the following components:
 
