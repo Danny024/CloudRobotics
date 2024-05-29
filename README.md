@@ -43,7 +43,7 @@ npm install
 ### Rqt_Graph showing ROSNODES and Topics
 <!-- HTML way to specify dimensions -->
 <p align="center">
-  <img src="images/rqt.png" alt="Demonstration" width="1080" height="600"/>
+  <img src="images/rqt.png" alt="Demonstration" width="600" height="480"/>
 </p>
 
 
