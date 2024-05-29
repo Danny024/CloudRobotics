@@ -33,7 +33,7 @@ Before you begin, make sure you have the following software installed on your ma
 
 <!-- HTML way to specify dimensions -->
 <p align="center">
-  <img src="images/demo.gif" alt="Demonstration" width="500" height="300"/>
+  <img src="images/demo.gif" alt="Demonstration" width="1080" height="500"/>
 </p>
 
 ### Installing Dependencies
