@@ -1,4 +1,4 @@
-# CloudRobotics
+# Cloud Robotics - A web based Interface for Robotics Control and Navigation
 A web application built using React JS to control Robot.
 
 The web interface is composed of the following components:
