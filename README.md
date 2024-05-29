@@ -17,7 +17,6 @@ The web interface is composed of the following components:
 [![Cloud Robotics](https://img.youtube.com/vi/37w-SlmuGw4/0.jpg)](https://www.youtube.com/watch?v=37w-SlmuGw4)
 
 
-[![Cloud Robotics](https://img.youtube.com/vi/37w-SlmuGw4/0.jpg)](https://github.com/Danny024/CloudRobotics/blob/main/images/demo.mp4)
 
 
 [Video Link](https://www.youtube.com/watch?v=37w-SlmuGw4)
