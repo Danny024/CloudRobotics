@@ -43,7 +43,7 @@ npm install
 
 <!-- HTML way to specify dimensions -->
 <p align="center">
-  <img src="images/demo.gif" alt="Demonstration" width="1080" height="500"/>
+  <img src="images/demo.gif" alt="Demonstration" width="1080" height="600"/>
 </p>
 
 
