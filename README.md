@@ -31,7 +31,10 @@ Before you begin, make sure you have the following software installed on your ma
 - Turtlebot3 gazebo
 - robot_state_publisher
 
-![Demonstration](images/demo.gif) 
+<!-- HTML way to specify dimensions -->
+<p align="center">
+  <img src="images/demo.gif" alt="Demonstration" width="500" height="300"/>
+</p>
 
 ### Installing Dependencies
 
