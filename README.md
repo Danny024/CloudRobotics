@@ -49,6 +49,3 @@ npm install
 ![Rqt_grap](images/rqt.png) 
 
 
-### Reference
-
-[ROS Web Navigation](https://www.udemy.com/course/ros-web-nav/).
